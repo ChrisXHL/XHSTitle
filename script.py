@@ -1,7 +1,7 @@
 import openai
 
 # 初始化OpenAI API
-openai.api_key = ""
+openai.api_key = "你的api放在这"
 
 def optimize_prompt(initial_prompt, optimization_times=5):
     # 设置初始消息，包括系统消息
