@@ -92,5 +92,5 @@ def optimize_prompt(initial_prompt, optimization_times=5):
     # 返回最后一次优化的结果
     return messages[-2]['content']
 
-initial_prompt = """将你的内容放在这里"""
+initial_prompt = input("请输入原文：")
 optimized_prompt = optimize_prompt(initial_prompt, optimization_times=5)
