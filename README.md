@@ -12,7 +12,7 @@
 
 1. 打开终端或命令提示符。
 2. 运行脚本 `python script.py`。
-3. 根据提示输入原始标题，程序将自动优化标题。
+3. 根据提示输入原始内容或者标题，程序将自动优化标题。
 
 ## 配置
 
@@ -21,10 +21,8 @@
 1. 找到脚本中的 `openai.api_key = ""`。
 2. 将你的OpenAI API密钥填入双引号内。
 
-## 贡献
+## 雄少
 
-欢迎提出改进建议，或通过Pull Requests贡献你的代码。
+Twitter：https://twitter.com/Chrisxi31578684
+![image](https://github.com/ChrisXHL/XHSTitle/assets/104919783/31aab8d6-d4a7-4e8e-b6d6-f59cd12b614e)
 
-## 许可
-
-该项目使用MIT许可证。有关详细信息，请查看LICENSE文件。
