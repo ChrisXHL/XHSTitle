@@ -26,10 +26,3 @@
 2. 将你的OpenAI API密钥填入双引号内。
 3. 你可以设置循环次数，最后一行代码：optimization_times=5
 
-## 雄少的社交账户
-
-欢迎在我的社交平台联系我。
-
-Twitter：https://twitter.com/Chrisxi31578684
-![image](https://github.com/ChrisXHL/XHSTitle/assets/104919783/31aab8d6-d4a7-4e8e-b6d6-f59cd12b614e)
-
