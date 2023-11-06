@@ -20,6 +20,7 @@
 
 1. 找到脚本中的 `openai.api_key = ""`。
 2. 将你的OpenAI API密钥填入双引号内。
+3. 你可以设置循环次数，最后一行代码：optimization_times=5
 
 ## 雄少
 
